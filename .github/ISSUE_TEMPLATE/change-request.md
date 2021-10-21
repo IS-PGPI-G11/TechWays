@@ -1,7 +1,7 @@
 ---
 name: Change request
 about: Petición de cambio de una funcionalidad existente
-title: ''
+title: 'CR: '
 labels: change
 assignees: ''
 
@@ -16,3 +16,7 @@ descripción clara de qué se debe cambiar y por qué
 ## otras consideraciones
 **Screenshots**
 **Contexto adicional**
+
+# aceptación
+- [ ] criterio 1
+- [ ] criterio x ...

@@ -12,7 +12,6 @@ descripción clara de qué se necesita y bajo que contexto
 
 ## otras consideraciones
 **Screenshots**
-
 **Contexto adicional**
 
 # aceptación

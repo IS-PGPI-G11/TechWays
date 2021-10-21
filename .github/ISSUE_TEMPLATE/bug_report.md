@@ -24,5 +24,8 @@ descripción clara de qué debería ocurrir y cómo
 
 ## otras consideraciones
 **Screenshots**
-
 **Contexto adicional**
+
+# aceptación
+- [ ] criterio 1
+- [ ] criterio x ...
