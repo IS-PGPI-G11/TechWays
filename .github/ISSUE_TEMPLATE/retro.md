@@ -1,19 +1,19 @@
 ---
 name: Retro
 about: Describe this issue template's purpose here.
-title: Retro Sprint X
+title: Sprint Retro X
 labels: retro
 assignees: ''
 
 ---
 
-# Retro Sprint X
+# Sprint Retro  X
 
-| Persona | Mal | Bien | Sugerencia | Felicidad |
+| Desarrollador | Mal | Bien | Sugerencias | Felicidad |
 | --- | --- | --- | --- | --- |
-| x | x | x | x | x |
-| x | x | x | x | x |
-| x | x | x | x | x |
+| x | x | x | x | 😄 |
+| x | x | x | x | 😐 |
+| x | x | x | x | 😢 |
 
 ## Proximas acciones
 - a @a #issue

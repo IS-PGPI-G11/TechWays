@@ -1,7 +1,7 @@
 ---
 name: Review
 about: Scrum Review
-title: Review Sprint X
+title: Sprint Review X
 labels: review
 assignees: ''
 
@@ -10,17 +10,22 @@ assignees: ''
 # Review Sprint X
 
 ## tareas presentadas
-- #issue
-- #issue
-- #issue
-- #issue
+- ✅ #issue
+- ✅ #issue
+- ✅ #issue
+- ✅ #issue
 
-## proximas acciones
-### tareas a corregir
-- #issue
-- #issue
-- #issue
+## tareas no completadas
+- ❌  #issue
+- ❌  #issue
+- ❌  #issue
+- ❌  #issue
 
-### otra acciones a tomar
+### Justificaciones
 - a
 - b
+
+## Proximas acciones
+- a @a #issue
+- b @b #issue
+- c @c #issue
