@@ -12,6 +12,6 @@ assignees: ''
 **Projecto**: Techways
 **Fecha**: 21/11/21
 
-| ID | Issue | Summary | Description | Priority | Story | Status |
-| --- | --- | --- | --- | --- | --- |  --- |
-| 1 | #X | Summary | Description | Priority | Story | Status |
+| ID | Issue | Titulo | Descripción | Prioridad |  Estado |
+| --- | --- | --- | --- | --- | --- | 
+| 1 | #X | Summary | Description | Priority | ✅ |
