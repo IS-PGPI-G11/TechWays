@@ -7,23 +7,19 @@ assignees: JSnow11
 
 ---
 
-# descripcion
-descripción clara de qué se debe cambiar y por qué
-
 **solicitante/s**: @
 
 **tipo**: alcance, requisitos, ...
 
-# tipo
-- 
+**historia relacionada**: #IDhistoria (si procede)
 
-## historia relacionada
-#IDhistoria (si procede)
+# descripcion
+descripción clara de qué se debe cambiar y por qué
+
+# propuestas de cambio
+- propuesta 1
+- propuesta 2
 
 ## otras consideraciones
 **Screenshots**
 **Contexto adicional**
-
-# propuestas
-- propuesta 1
-- propuesta 2
