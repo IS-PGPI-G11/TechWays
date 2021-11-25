@@ -3,20 +3,27 @@ name: Change request
 about: Petición de cambio de una funcionalidad existente
 title: 'CR: '
 labels: change
-assignees: ''
+assignees: JSnow11
 
 ---
 
 # descripcion
 descripción clara de qué se debe cambiar y por qué
 
+**solicitante/s**: @
+
+**tipo**: alcance, requisitos, ...
+
+# tipo
+- 
+
 ## historia relacionada
-#IDhistoria
+#IDhistoria (si procede)
 
 ## otras consideraciones
 **Screenshots**
 **Contexto adicional**
 
-# aceptación
-- [ ] criterio 1
-- [ ] criterio x ...
+# propuestas
+- propuesta 1
+- propuesta 2
